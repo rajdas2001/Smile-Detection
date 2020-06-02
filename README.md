@@ -9,7 +9,8 @@ then install [OpenCV](https://opencv.org/) on your system, and clone this repo.
 'pip install opencv-python'
 
 
-### Initiate transfer learning
+### Initiate the project
 Go to the project directory and run detect.py:
+
 
 Voila! The project runs now.
