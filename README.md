@@ -13,4 +13,4 @@ then install [OpenCV](https://opencv.org/) on your system, and clone this repo.
 Go to the project directory and run detect.py:
 
 
-Voila! The project runs now.
+**Voila! The project runs now.**
